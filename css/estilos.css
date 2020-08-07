@@ -2,7 +2,10 @@
 body{
     text-align: center;
     font-family: "arial";
-    color:blue;
+    font-size: 16px;
+    margin:0;
+    padding: 0;
+    color:#333;
 }
 #cabecera{
     background: #33a;
