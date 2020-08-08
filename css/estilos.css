@@ -32,8 +32,12 @@ body{
     font-size: 20px;
 }
 footer{
-    background: #33a;
+    background: rgb(4, 108, 177);
     color:white;
     font-size: 12px;
     padding: 1em;
+    width: 75%;
+    text-align: center;
+    border: 1px solid #000;
+    margin: 0 auto;
 }
