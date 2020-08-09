@@ -11,5 +11,5 @@ podemos encontrar diferentes temas como:
 - Tags Y Versiones
 - Multiples Colaboradores
 - creado por el increible platzi team
-
+-icluye ejemplos para widows linux y mac
 > nunca te detengas.continua aprendiendo
